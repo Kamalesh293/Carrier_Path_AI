@@ -1,0 +1,7 @@
+🎤 Mock Interview Questions:
+
+- How would you approach building a dashboard for real-time business metrics?
+- What are the differences between Power BI and Tableau?
+- Can you explain how Business Intelligence impacts decision-making?
+- How would you integrate data from multiple sources into a single dashboard?
+- Describe a situation where you had to communicate a complex data insight to a non-technical stakeholder.

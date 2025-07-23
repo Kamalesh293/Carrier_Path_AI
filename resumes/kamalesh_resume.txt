@@ -1,0 +1,36 @@
+Kamalesh Sidhu  
+Email: kamaleshvelu01@gmail.com | Phone: 6379392276  
+LinkedIn: www.linkedin.com/in/kamalesh-v- | GitHub: github.com/Kamalesh293
+
+🎓 EDUCATION  
+B.Tech in Artificial Intelligence and Data Science  
+XYZ College of Engineering, Coonoor  
+Expected Graduation: 2026  
+
+📌 SKILLS  
+- Programming: Python, SQL, HTML, CSS  
+- Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit  
+- AI/ML: Regression, Classification, Clustering, NLP  
+- Platforms: Google Colab, GitHub, Streamlit, Telegram Bot API  
+- APIs: OpenAI, Gemini API, Google Generative AI  
+- Others: Resume Parsing, Vector Embeddings, Cosine Similarity
+
+🛠 PROJECTS  
+🔹 CareerPathAI – Personalized Career Navigator Bot  
+Built a smart AI career advisor that takes a resume and job role, then gives skill gaps, learning suggestions and interview questions using LLMs (Gemini).  
+Tech: Python, SentenceTransformers, Streamlit, Gemini API
+
+🔹 SmartCarval – Car Value Prediction Model  
+Predicted resale value of second-hand cars using ML algorithms and vector-based similarity search.  
+Tech: Pandas, Sklearn, Matplotlib
+
+🔹 AI-Powered Telegram Chatbot  
+Created a conversational Telegram bot using OpenAI API that behaves like ChatGPT  
+Tech: Python, Telebot, OpenAI API
+
+📄 CERTIFICATIONS  
+- Data Science with Python – Datamites  
+- Generative AI with Gemini – Google
+
+💬 INTERESTS  
+Building LLM-powered tools, Resume parsing systems, AI product development

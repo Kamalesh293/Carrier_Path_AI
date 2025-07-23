@@ -1,0 +1,14 @@
+🎯 Role: Data Analyst
+📊 Match Score: 78.46%
+
+✅ Matched Skills:
+Python, SQL, Excel, Data Cleaning, Pandas, Data Visualization
+
+❌ Missing Skills:
+Power BI, Tableau, Business Intelligence, Dashboards
+
+📚 Resources:
+Power BI: https://learn.microsoft.com/en-us/power-bi/
+Tableau: https://www.tableau.com/learn/training
+Business Intelligence: https://www.coursera.org/learn/business-intelligence
+Dashboards: https://www.datacamp.com/courses/building-data-dashboards

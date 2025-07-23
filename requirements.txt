@@ -2,6 +2,5 @@ streamlit
 sentence-transformers
 pdfplumber
 python-docx
-google-generativeai
 scikit-learn
 python-dotenv
